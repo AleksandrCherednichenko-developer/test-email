@@ -1,0 +1,190 @@
+<mjml>
+   <mj-head>
+      <mj-preview>Celebrate New Year with us</mj-preview>
+      <mj-title>FBS wishes you all the best!</mj-title>
+      <mj-attributes>
+         <mj-all font-family="Arial" />
+         <mj-section  padding="0px 15px" />
+      </mj-attributes>
+      <mj-style>
+      .title1{
+         font-weight: bold;
+         font-size: 24px;
+         line-height: 30px;
+         margin: 0px;
+      }
+      .text{
+         font-weight: normal;
+         font-size: 15px;
+         line-height: 22px;
+         letter-spacing: 0.2px;
+         margin: 0;
+      }
+      .title2{
+         font-weight: bold;
+         font-size: 20px;
+         line-height: 24px;
+         margin: 0px;
+      }
+      .item__subtitle{
+         font-weight: normal;
+         font-size: 16px;
+         line-height: 20px;
+         letter-spacing: 0.1px;
+         text-align: center;
+         margin: 0px;
+      }
+      .list{
+         font-weight: normal;
+         font-size: 15px;
+         line-height: 22px;
+         letter-spacing: 0.2px;
+         margin: 0px;
+         padding-bottom: 10px;
+      }
+      .green{
+         color: #80C342;
+         margin-right: 5px;
+      }
+      .text__car{
+         font-weight: normal;
+         font-size: 16px;
+         line-height: 24px;
+         color: #2B2B47;
+         margin: 0px;
+      }
+      .text__car-link{
+         text-decoration: none;
+         color: #00AEEF;
+      }
+      .check-text{
+         font-style: italic;
+         font-weight: bold;
+         font-size: 16px;
+         line-height: 24px;
+         color: #2B2B47;
+         margin: 0px 0px 0px 17px;
+      }
+      .background{
+         background: url(https://imagizer.imageshack.com/img922/96/qcALSu.jpg);
+      }
+      </mj-style>
+   </mj-head>
+   <mj-body css-class="background">
+
+      <mj-section background-color="#ffffff">
+         <mj-column width="500px">
+            <mj-image src="https://imagizer.imageshack.com/img923/5922/zT4qCe.png" width="288px" padding="27px 0px 40px 0px" align="center"/>
+         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+         <mj-column width="500px">
+            <mj-text padding="0px 0px 20px 0px">
+               <h1 class="title1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h1>
+            </mj-text>
+            <mj-text padding="0px 0px 10px 0px">
+               <p class="text">Donec venenatis scelerisque mi, quis bibendum turpis dictum convallis. Sed pretium lorem non mi porta porta. Vestibulum mollis turpis at ipsum egestas, et pharetra eros consequat. Donec sit amet purus id lectus aliquet euismod vitae laoreet sapien.</p>
+            </mj-text>
+            <mj-text padding="0px 0px 40px 0px">
+               <p class="text">Praesent luctus pretium est. Aliquam id tellus laoreet, sollicitudin quam in, malesuada est.</p>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+         <mj-column width="500px">
+            <mj-text padding="0px 0px 20px 0px">
+               <h3 class="title2">Vivamus ut porta eros</h3>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <mj-wrapper padding="0px 50px 20px" background-color="#ffffff">
+         <mj-section padding="0px">
+            <mj-column padding-bottom="20px">
+               <mj-image padding="0px 0px 10px 0px" width="160px" src="https://imagizer.imageshack.com/img924/517/MXZ8Ny.png" />
+               <mj-text padding="0px">
+                  <p class="item__subtitle">Lorem ipsum dolor sit amet</p>
+               </mj-text>
+            </mj-column>
+            <mj-column padding-bottom="20px">
+               <mj-image padding="0px 0px 10px 0px" width="160px" src="https://imagizer.imageshack.com/img922/271/Q0SIrN.png" />
+               <mj-text padding="0px">
+                  <p class="item__subtitle">Vestibulum ac sem pharetra</p>
+               </mj-text>
+            </mj-column>
+            <mj-column padding-bottom="20px">
+               <mj-image padding="0px 0px 10px 0px" width="160px" src="https://imagizer.imageshack.com/img924/9189/o3UXt1.png" />
+               <mj-text padding="0px">
+                  <p class="item__subtitle">In sit amet luctus orci sed varius</p>
+               </mj-text>
+            </mj-column>
+         </mj-section>
+      </mj-wrapper>
+
+      <mj-section background-color="#ffffff">
+         <mj-column width="500px">
+            <mj-text padding="0px 0px 20px 0px">
+               <h3 class="title2">Cras tempor risus at ipsum porta?</h3>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+         <mj-column width="500px">
+            <mj-text padding="0px 0px 30px 0px">
+               <p class="list"><span class="green">1.</span>Proin non nibh lorem</p>
+               <p class="list"><span class="green">2.</span>Morbi semper molestie risus at elementum</p>
+               <p class="list"><span class="green">3.</span>Cras dapibus ante erat</p>
+               <p class="list"><span class="green">4.</span>Suspendisse eu nulla</p>
+               <p class="list"><span class="green">5.</span>Sed mattis, tellus quis iaculis</p>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      
+      <mj-section background-color="#ffffff">
+         <mj-column>
+            <mj-button href="https://fbs.com" width="249px" height="50px" padding="0px 0px 40px 0px" font-weight="bold" font-size="16px" line-height="19px" background-color="#EF4923" color="white" border-radius="6px">
+               Cras dapibus
+            </mj-button>
+         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+         <mj-group width="500px">
+            <mj-column padding-bottom="20px">
+               <mj-text padding="25px 0px 0px 0px">
+                  <p class="text__car">Quisque facilisis commodo metus, ut gravida mi imperdiet sit amet. Vestibulum ante <a href="https://fbs.com" class="text__car-link" target="_blank">ipsum primis in</a> faucibus orci luctus et ultrices posuere cubilia curae.</p>
+               </mj-text>
+            </mj-column>
+            <mj-column>
+               <mj-image padding="0px 0px 40px 20px" width="230px" src="https://imagizer.imageshack.com/img922/1299/ziR2ZY.png" />
+            </mj-column>
+         </mj-group>
+      </mj-section>
+
+      <mj-wrapper padding="0px 50px 40px" background-color="#ffffff">
+         <mj-section padding="17px 20px 7px" background-color="#f2f2f2" border-radius="20px">
+            <mj-column width="45px" padding="0px" >
+               <mj-image width="45px" padding="0px 0px 10px 0px" src="https://imagizer.imageshack.com/img923/4020/cFBTJ5.png">
+               </mj-image>
+            </mj-column>
+            <mj-column width="390px" padding="0px">
+               <mj-text padding="0px">
+                  <p class="check-text" class="check-text">Luctus velit mattis nulla faucibus. Nulla nulla sodales nunc ultricies. Amet, velit luctus et.</p>
+               </mj-text>
+            </mj-column>
+         </mj-section>
+      </mj-wrapper>
+
+      <mj-section background-color="#ffffff">
+         <mj-column>
+            <mj-button href="https://fbs.com" width="249px" height="50px" padding="0px 0px 40px 0px" font-weight="bold" font-size="16px" line-height="19px" background-color="#EF4923" color="white" border-radius="6px">
+               Cras dapibus
+            </mj-button>
+         </mj-column>
+      </mj-section>
+
+   </mj-body>
+</mjml>
